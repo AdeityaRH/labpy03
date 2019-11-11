@@ -7,6 +7,9 @@ Setelah itu baru kita mulai membuat programnya
 
 1.Latihan1.py
 
+#Flowchart Latihan1.py :
+![Screenshot_20191111-193247~2](https://user-images.githubusercontent.com/56975779/68588083-369ee580-04bb-11ea-9fcb-d9d7a6e77a12.png)
+
 #Masukkan codingan seperti di bawah ini :
 ![Screenshot (64)](https://user-images.githubusercontent.com/56975779/68393142-f7f8ea80-019d-11ea-8ac8-301621826e6f.png)
  
@@ -24,6 +27,9 @@ Setelah itu baru kita mulai membuat programnya
 ![Screenshot (65)](https://user-images.githubusercontent.com/56975779/68393389-8a00f300-019e-11ea-9247-752d939ec0e8.png)
 
 2.Latihan2.py
+
+#Flowchart Latihan2.py :
+![Screenshot_20191111-193652~2](https://user-images.githubusercontent.com/56975779/68588498-423edc00-04bc-11ea-836d-e4e58d12969e.png)
 
 #Masukkan codingan seperti dibawah ini :
 ![Screenshot (66)](https://user-images.githubusercontent.com/56975779/68394083-c719b500-019f-11ea-9419-13b0cf1200d2.png)
